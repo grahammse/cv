@@ -1,0 +1,69 @@
+* {
+  /* Override default margins*/
+  --pagedjs-margin-right: 0.4in;
+  --pagedjs-margin-left: 0.2in;
+  --pagedjs-margin-top: 0.4in;
+  --pagedjs-margin-bottom: 0.4in;
+}
+
+
+:root{
+  --sidebar-width: 11.75rem; /* side bar width */
+}
+
+.aside {
+  padding-right: 0;
+}
+
+.aside h2 {
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
+.aside h3 {
+  font-weight: 800;
+  color: #444;
+  font-size: .9rem;
+}
+
+
+.aside ul {
+  font-size: .7rem;
+}
+
+[data-id="title"] h3 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
+[data-id="main"] {
+  font-size: .8rem;
+  padding: 22px 0px 0px;
+}
+
+[data-id="main"] ul li{
+  padding: 4px 0px;
+}
+
+[data-id="professional-experience"] ul li{
+  padding: 0px 0px;
+  font-size: .7rem;
+}
+
+[data-id="selected-teaching-experience"] ul li{
+  padding: 0px 0px;
+  font-size: .7rem;
+}
+
+[data-id="clinical-experience"] ul li{
+  padding: 0px 0px;
+  font-size: .7rem;
+}
+
+body {
+  color: #000;
+}
+
+.main-block.concise .details div:not(.concise) {
+  color: #444;
+}
