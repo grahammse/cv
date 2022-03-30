@@ -25,7 +25,6 @@ knit: pagedown::chrome_print
 ## Contact Info {#contact}
 
 -   <i class="fa fa-envelope"></i> [grahammse\@gmail.com](mailto:grahammse@gmail.com){.email}
--   <i class="fa fa-github"></i> [github.com/grahammse](https://github.com/grahammse)
 -   <i class="fa fa-linkedin"></i> [linkedin.com/graham-eglit](https://www.linkedin.com/in/graham-eglit-phd/)
 -   <i class="fa fa-phone"></i> 518-542-5724
 
