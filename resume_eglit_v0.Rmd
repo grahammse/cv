@@ -1,0 +1,684 @@
+---
+title: "Graham Eglit's Resume v2"
+author: Graham Eglit
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - override.css
+      - resume
+    self_contained: true
+knit: pagedown::chrome_print
+---
+
+```{css echo = FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [grahammse\@gmail.com](mailto:grahammse@gmail.com){.email}
+-   <i class="fa fa-linkedin"></i> [linkedin.com/graham-eglit](https://www.linkedin.com/in/graham-eglit-phd/)
+-   <i class="fa fa-phone"></i> 518-542-5724
+
+## Skills {#skills}  
+  
+
+### Statistics  
+
+-  Clinical Trials  
+-  Psychometrics/Test Development  
+-  Longitudinal Data Analysis  
+-  Structural Equation Modeling  
+-  Statistical Learning  
+-  Data Visualization  
+
+### Programming  
+
+-  R  
+-  R Markdown  
+-  Mplus  
+-  Latex  
+-  CSS  
+-  HTML  
+
+### Content Area Expertise  
+
+-  Clinical Neuropsychology  
+-  Longitudinal Studies of Cognition  
+-  Neurodegenerative Diseases 
+-  Serious Mental Illnesses  
+-  Traumatic Brain Injury  
+-  Assessment  
+
+## Disclaimer {#disclaimer}
+
+Source Code Available at:  
+<i class="fa fa-github"></i> [github.com/grahammse/cv](https://github.com/grahammse/cv)  
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Graham M.L. Eglit, Ph.D. {#title}
+
+<br>
+
+### Key Qualifications
+-  Statistical programmer, biostatistician, and licensed clinical neuropsychologist with 10+ years of experience analyzing neuroscience-focused clinical trials and RWE studies in collaboration with academic institutions, government agencies, and private industry.  
+-  Successfully built and oversaw the R&D biostatistics department for the largest global cannabinoid company, Canopy Growth Corporation.  
+-  Unique background that marries psychometric test development and validation in neuroscience with advanced expertise in R statistical programming, clinical trial analysis, and data visualization.  
+-  Strong commitment to adopting cutting-edge analytic methods and innovative clinical trial designs.  
+-  Excellent interpersonal, verbal, and written communication skills.  
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of California, San Diego & VA San Diego Hospital
+
+Clinical Residency, Neuropsychology
+
+San Diego, CA
+
+2016 - 2015
+
+### University at Albany, State University of New York
+
+Ph.D in Clinical Psychology (Neuropsychology)
+
+Albany, NY
+
+2016
+
+Dissertation: Reduced Conscious Recollection and its Detection in Three Performance Validity Tests: A Dual Task Interference Investigation
+
+### University at Albany, State University of New York
+
+M.A. in Psychology
+
+Albany, NY
+
+2013  
+
+Thesis: The Degree of Conation on Neuropsychological Tests Does Not Account for Performance Invalidity Among Litigants
+
+### Binghamton University
+
+B.A. in Psychology (summa cum laude)
+
+Binghamton, NY
+
+2011  
+
+Honors Thesis: Types of Cognitive Content and the Role of Relational Processing in the Illusion of Explanatory Depth.
+
+### University of Delaware
+
+B.A. in Philosophy and English
+
+Newark, DE
+
+2008
+
+## Licenses {data-icon="id-card"}
+
+### California State Licensure in Clinical Psychology (PSY32539)
+
+N/A
+
+N/A
+
+2020
+
+## Professional Experience {data-icon="laptop"}
+
+### Senior Statistician (R&D Biostatistics Lead)
+
+Canopy Growth Corporation
+
+Smith Falls, Ontario
+
+Present - 2020
+
+-   Developed the overall R&D strategy for data management, statistical programming, analysis, visualization, and reporting for preclinical, clinical, and animal health divisions of the company.
+-   Lead the R&D biostatistics department and train, mentor, and supervise junior staff
+-   Represent biostatistics department on product development teams and provide statistical expertise for asset development and life-cycle management
+-   Author SAPs and statistical content for protocols and regulatory submission documents and co-author scientific publications
+-   Communicate statistical results to expert and lay audiences within and outside the company
+-   Serve as a subject area expert in psychometrics, test development, and cognitive and neuropsychiatric endpoint measurement
+
+### Statistical Consultant
+
+Canopy Growth Corporation
+
+Smith Falls, Ontario
+
+2020 - 2019
+
+-   Performed all elements of statistical design and analysis for Canopy Growth Corporation's pharmaceutical division, Spectrum Therapeutics
+-   Developed SAPs, wrote statistical programs, carried out power analyses/simulations, and conducted interim and final analyses for preclinical studies, human and animal clinical trials, and RWE studies for regulatory submission
+-   Assisted in interpretation and dissemination of results
+
+### US Department of Veterans Affairs Research Fellow
+
+Veterans Affairs San Diego Hospital & University of California, San Diego School of Medicine
+
+San Diego, CA
+
+2020 - 2018
+
+-   Conducted experimental and observational research on cognitive trajectories, vascular risk factors, and biomarker profiles in neurodegenerative and neuropsychiatric disorders
+-   Performed longitudinal analyses using large-scale and complex datasets incorporating neuropsychological, neuroimaging, neuropathological, cerebrosprinal fluid, genetic, and medical history data using advanced programming and modeling approaches, including mixed effects models, multivariate twin modeling, survival analysis, and structural equation modeling
+-   Authored and published scientific manuscripts in leading academic journals
+
+### T32 NIMH Postdoctoral Fellow
+
+Stein Institute for Research on Aging, University of California, San Diego School of Medicine
+
+San Diego, CA
+
+2018 - 2016
+
+-   Conducted experimental and observational research examining psychosocial contributors to aging in serious mental illnesses and neuropsychiatric features of Parkinson's disease
+-   Analyzed study data using advanced psychometric (structural equation modeling, item response theory) and person-centered techniques (latent profile analysis, cluster analysis)
+-   Authored and published scientific manuscripts in leading academic journals
+
+### Graduate Research Assistant
+
+University at Albany, State University of New York
+
+Albany, NY
+
+2016 - 2011
+
+-   Assisted the principal investigator with writing grant applications, study protocols, and regulatory documents
+-   Secured funding for and executed experimental studies assessing the sensitivity and specificity of neuropsychological performance validity measures
+-   Supervised undergraduate and honors student research assistants within the lab
+
+## Clinical Experience {data-icon="notes-medical"}
+
+### Private Practice of Dean Delis
+
+Forensic Neuropsychology & NFL Disability Compensation Assessment
+
+Encinitas, CA
+
+2020 - 2017
+
+- Psychometrist in a forensic neuropsychology private practice.
+- Administered neuropsychological tests to examinees involved in litigation and to retired NFL players seeking disability compensation.
+
+### VA San Diego HealthCare System
+
+Traumantic Brain Injury Clinic & Neuropsychological Assessment Unit
+
+San Diego, CA
+
+2020 - 2018
+
+- Neuropsychological fellow in two VA clinics, one of which primarily served older Veterans with late-life cognitive disorders and the other primarily younger OEF/OIF/OND Veterans with a history of traumatic brain injury
+- Conducted neuropsychological assessments and provided cognitive rehabilitation to patients
+- Supervised neuropsychology graduate students and residents
+
+
+### University of California, San Diego
+
+Neuropsychological Associates
+
+San Diego, CA
+
+2018 - 2016
+
+- Neuropsychological fellow in a university-affiliated private practice specializing in movement disorders
+- Conducted neuropsychological assessments, wrote neuropsychological reports, and provided feedback to patients and family members
+- Attended case consultations with movement disorder specialist neurologists, neuropsychologists, nurses, and neurosurgeons
+
+### San Diego VA HealthCare System & Rady's Children's Hospital
+
+Neuropsychological Assessment Unit & Child and Adolescent Psychiatry Services
+
+San Diego, CA
+
+2016 - 2015
+
+- Conducted neuropsychological assessments of middle age and older adult Veterans with a range of presenting conditions, including Alzheimer's disease, vascular dementia, Parkinson's disease, progressive supranuclear palsy, multiple systems atrophy, Lewy body dementia, stroke, traumatic brain injury, fronto-temporal dementia, and late-life depression
+- Attending weekly training seminars, brain cuttings, and twice-weekly group clinical supervision
+- Provided individual/group therapy and conducted psychological and neuropsychological asseements of child and adolescent psychiatric inpatients
+
+### Sunnyview Rehabilitation Center
+
+Neuropsychological Assessment Clinic
+
+Schenectady, NY
+
+2015 - 2013
+
+- Conducted neuropsychological assessments for inpatient and outpatient populations with a variety of presenting conditions , including stroke, epilepsy, multiple sclerosis, neurodegenerative diseases, and traumatic brain injury, among others
+- Wrote neuropsychological reports and provided feedback to patients
+- Attended training seminars, grand rounds, and epilepsy case consultations
+
+### University at Albany
+
+Psychological Services
+
+Albany, NY
+
+2013 - 2012
+
+- Provided evidence-based individual and group therapy to community-based outpatient clients
+- Attended weekly supervision and case consultation
+- Conducted psychological assessment of adult outpatients
+
+
+
+## Selected Teaching Experience {data-icon="chalkboard-teacher"}
+
+### Introduction to R Programming
+
+Canopy Growth Corporation
+
+Smith Falls, Ontario
+
+2022
+
+-   Designed course in data wrangling, visualization, and modeling in the R programming language
+-   Instructed employees as part of R&D-wide transition to R
+
+### Statistics Teaching Assistant Pool Supervisor
+
+University at Albany, State University of New York
+
+Albany, NY
+
+2014 - 2011
+
+-   Supervised cohorts of graduate teaching assistants who provided tutoring and instructional support to 250+ undergraduate students each semester
+-   Developed lesson plans and instructional aids
+-   Taught review and supplementary lectures in undergraduate statistics
+
+## Editorial Work {data-icon="pencil"}
+
+### Associate Editor
+
+Developmental Neuropsychology
+
+N/A
+
+Present - 2021
+
+### Ad-Hoc Reviewer
+
+The Clinical Neuropsychologist\
+Neuropsychology Review\
+Journal of Psychiatric Practice\
+International Psychogeriatrics\
+American Journal of Orthopsychiatry\
+Assessment\
+Archives of Clinical Neuropsychology\
+Applied Neuropsychology: Adult
+
+N/A
+
+N/A
+
+## Publications {data-icon="file"}
+
+### What's the cut-point? A systematic review of tau PET
+
+Weigand, A.J., Maass, A., **Eglit, G.M.L.**, & Bondi, M.W.
+
+N/A
+
+2022
+
+*Alzheimer's Research & Therapy*
+
+### Cognitive practice effects delay diagnosis of MCI: Implications for clinical trials
+
+Sanderson-Cimino, M., Elman, J.A., Tu, X.M., Gross, A.L., Panizzon, M.S., Gustason, D.E., Bondi, M.W., Edmonds, E.D., **Eglit, G.M.L.**, Eppig, J.S., Franz, C.E., Jak, A.J., Lyons, M.J., Thomas, K.R., Williams, M.E., Kremen, W.S., & Alzheimer's Disease Neuroimaging Initiative
+
+N/A
+
+N/A
+
+*Alzheimer's & Dementia: Translational Research & Clinical Interventions,8(1)*, e12228
+
+### Paradoxical cognitive trajectories in men from earlier to later adulthood
+
+**Eglit, G.M.L.**, Elman, J.A., Panizzon, M.S., Sanderson-Cimino, M. Williams, M.E., Dale, A.M., Eyler, L.T., Fennema-Notestine, C., Gillespie, N.A., Gustavson, D.E., Hatton, S.N., Hagler, D.J., Hauger, R.L., Jak, A.J., Logue, M.W., McEvoy, L.K., McKenzie, R.E., Neale, M.C., Puckett, O., Reynolds, C.A., Toomey, R., Tu, X.M., Whitsel, N. Xian, H., Lyons, M.J., Franz, C.E., & Kremen, W.S.
+
+N/A
+
+N/A
+
+*Neurobiology of Aging, 109*, 229-238
+
+### Safety and tolerability of escalating cannabinoid doses in healthy cats
+
+Kulpa, J.E., Paulionis, L.J., **Eglit, G.M.L.**, & Vaughn, D.M.
+
+N/A
+
+2021
+
+*Journal of Feline Medicine and Surgery, 23(12)*, 1162-1175
+
+### Authorization patterns, safety, and effectiveness of medical cannabis in Quebec
+
+Kalaba, M., Macnair, L, Peters, E.N., **Eglit, G.M.L.**, Rapin, L, El Hage, C., Prosk, E., & Ware, M.A.
+
+N/A
+
+N/A
+
+*Cannabis and Cannabinoid Research, 6(6)*, 564-572
+
+### MRI-assessed locus coeruleus integrity is heritable and associated with multiple cognitive domains, mild cognitive impairment, and daytime dysfunction
+
+Elman, J.A., Puckett, O.K., Beck, A., Fennema-Notestine, C., Cross, L.K., Dale, A.M., **Eglit, G.M.L.**, Eyler, L.T., Gillespie, N.A., Granholm, E.L., Gustavson, D.E., Hagler, D.J., Hatton, S.N., Hauger, R., Jak, A.J., Logue, M.W., McEvoy, L.K., McKenzie, R.E., Neale, M.C., Pannizon, M.S., Reynolds, C.A., Sanderson-Cimino, M., Toomey, R., Tu, X.M., Whitsel, N., Williams M.E., Xian, H., Lyons, M.J., Franz, C.E., Kremen, W.S.
+
+N/A
+
+N/A
+
+*Alzheimer's & Dementia, 17(6)*, 101-1025
+
+### Associations between depression and cardiometabolic health: A 27-year longitudinal study
+
+Ditmars, H.L, Logue, M.W., Toomey, R., McKenzie, R.E., Franz, C.E., Panizzon, M.S., Reynolds, C.A., Cuthbert, K.N., Vandiver, R., Gustavson, D.E., **Eglit, G.M.L.**, Elman, J.A., Sanderson-Cimino, M., Williams, M.E., Andreassen, O.A., Dale, A.M., Eyler, L.T., Fennema-Notestine, C., Gillespie, N.A., Hauger, R.L., Jak, A.J., Neale, M.C., Tu, X.M., Whitsel, N., Xian, H., Kremen, W.S. & Lyons, M.J.
+
+N/A
+
+N/A
+
+*Psychological Medicine*, 1-11
+
+### Higher cerebrospinal fluid tau is associated with history of traumatic brain injury and reduced processing speed in Vietnam-era veterans: A Department of Defense Alzheimer's Disease Neuroimaging Initiative (DOD-ADNI) study
+
+Clark, A.L., Weigand, A.J., Bangen, K.J., Thomas, K.R., **Eglit, G.M.L.**, Bondi, M.W., Delano-Wood, L., & Alzheimer's Disease Neuroimaging Initiative
+
+N/A
+
+N/A
+
+*Alzheimer's & Dementia: Diagnosis, Assessment, & Disease Monitoring, 13(1)*, e12239
+
+### 12-year prediction of mild cognitive impairment aided by Alzheimer's brain signatures at mean age 56
+
+Williams, M.E., Elman, J.A., McEvoy, L.K. Andreassen, O.A., Dale, A.M., **Eglit, G.M.L.**, Eyler, L.T., Fennema-Notestine, C. Franz, C.E., Gillespie, N.A., Hagler, D.J., Hatton, S.N., Hauger, R.L., Jak, A.J., Logue, M.W., Lyons, M.J., McKenzie, R.E., Neale, M.C., Panizzon, M.S., Puckett, O.K., Reynolds, C.A., Sanderson-Cimino, M., Toomey, R., Tu, X.M., Whitsel, N., Xian, H., & Kremen, W.S.
+
+N/A
+
+N/A
+
+*Brain Communications, 3(3)*, fcab1677
+
+### Psychological symptoms and rates of performance validity improve following trauma-focused treatment in Veterans with PTSD and history of mild-to-moderate TBI
+
+Jurick, S.M., Crocker, L.D., Merritt, V.C., Hoffman, S.N., Keller, A.V., **Eglit, G.M.L.**, Thomas, K.R., Norman, S.B., Schiehser, D.M., Rodgers, C.S., Twamley, E.W., & Jak, A.J.
+
+N/A
+
+2020
+
+*Journal of the International Neuropsychological Society, 26(1)*, 108-118
+
+### Hypertension and Alzheimer's disease neuropathology: Modeling direct and indirect effects through circle of Willis atherosclerosis
+
+**Eglit, G.M.L.**, Weigand, A.J., Nation, D., Bondi, M.W., & Bangen, K.J.
+
+N/A
+
+N/A
+
+*Brain Communications, 2(2)*, fcaa114
+
+### APOE genotype interacts with tau PET to influence memory performance in both amyloid positive and negative individuals
+
+Weigand, A.J., Thomas, K.R., Bangen, K.J., **Eglit, G.M.L.**, Delano-Wood, L., Gilbert, P.E., Brickman, A.M., Bondi, M.W., for the Alzheimer's Disease Neuroimaging Initiative
+
+N/A
+
+N/A
+
+*Alzheimer's & Dementia, 17(1)*, 61-69
+
+### Delineation of apathy subgroups in Parkinson's disease: Differences in clinical presentation, functional ability, health-related quality of life, and caregiver burden
+
+**Eglit, G.M.L.**, Lopez, F., Schiehser, D.M., Pirogovsky-Turk, E., Litvan, I., Lessig, S. & Filoteo, J.V.
+
+N/A
+
+N/A
+
+*Movement Disorders Clinical Practice, 8(1)*, 92-99
+
+### Outcomes of randomized clinical trials of interventions to enhance social, emotional, and spiritual components of wisdom: A systematic review and meta-analysis
+
+Lee, E.E., Bangen, K.J., Avanzino, J.A., Hou, B., Ramsey, M., **Eglit, G.**, Liu, J., Tu, X.M., Paulus, M., & Jeste, D.V.
+
+N/A
+
+N/A
+
+*JAMA Psychiatry, 77(7)*, 925-935
+
+### Utility of the Color-Word Interference Test as an embedded measure of performance validity
+
+**Eglit, G.M.L.**, Jurick, S.M., Filoteo, J.V., Bondi, M.W., Delis, D.C., & Jak, A.J.
+
+N/A
+
+N/A
+
+*The Clinical Neuropsychologist, 34(2)*, 332-352.
+
+### Phenomenological characteristics of psychosis and aging: Psychosis and dementia interphase
+
+**Eglit, G.M.L.**, Palmer, B.W., & Jeste, D.V.
+
+N/A
+
+N/A
+
+In Tamminga, C.A., Ivleva, E.I., Reininghaus, U., & Van Os, J. (Eds.), Psychotic Disorders: Comprehensive Conceptualization and Treatments.
+
+### Factor Analysis of the Apathy Scale in Parkinson's disease
+
+Lopez, F., **Eglit, G.M.L.**, Schiehser, D.M., Pirogovsky-Turk, E., Litvan, I., Lessig, S., & Filoteo, J.V.
+
+N/A
+
+2019
+
+*Movement Disorders Clinical Practice, 6(5)*, 379-386
+
+### Attitude toward own aging among older adults: Implications for cancer prevention
+
+Martin, A.S.^1^, **Eglit, G.M.L.**^1^, Maldonado, Y., Daly, R., Liu, J., Tu, X., & Jeste, D.V.
+
+N/A
+
+N/A
+
+The Gerontologist:, 59(Issue Supplement 1), S38-S49  
+^1^ Indicates co-first authors
+
+### Neuropsychology
+
+**Eglit, G.M.L.**
+
+N/A
+
+N/A
+
+In Matson, J.L. (Ed.), Handbook of Intellectual Disabilities
+
+### Positive psychiatry for schizophrenia and other psychotic disorders
+
+**Eglit, G.M.L.**, Palmer, B.W., & Jeste, D.V.
+
+N/A
+
+N/A
+
+In Cohen, C.I., Meesters, P.D., & Reinhardt, M. (Eds.), Schizophrenia and Psychoses in Later Life: New Perspectives on Treatment, Research, and Policy
+
+### Overview of measurement-based positive psychiatry
+
+**Eglit, G.M.L.**, Palmer, B.W., & Jeste, D.V.
+
+N/A
+
+2018
+
+*Nordic Journal of Psychiatry, 72(6)*, 396-403
+
+### Loneliness in schizophrenia: Construct clarification, measurement, and clinical relevance
+
+**Eglit, G.M.L.**, Palmer, B.W., Martin, A.S., Tu, X., & Jeste, D.V.
+
+N/A
+
+N/A
+
+*PLOS One*
+
+### Substance use and healthy aging: An overview of key issues and considerations
+
+**Eglit G.M.L.** & Jeste D.V.
+
+N/A
+
+N/A
+
+Canadian Centre on Substance Use and Addiction's (CCSA) Substance Use in Canada report on Improving Quality of Life: Substance Use and Aging. Vaccarino FJ, Meriali Z, Flint, AJ (eds). Canadian Centre on Substance Abuse, Ottawa, ON.
+
+### Supported decision making in serious mental illnesses
+
+Jeste, D.V.^1^ & **Eglit, G.M.L.**^1^, Palmer, B.W., Martinis, J.G., Blanck, P., & Saks, E.R.
+
+N/A
+
+N/A
+
+*Psychiatry: Interpersonal and Biological Processes, 81(1)*, 28-40  
+^1^ Indicates co-first author
+
+### Who are the seniors with subjective but not objective cognitive impairment?
+
+Jeste, D.V. & **Eglit, G.M.L.**
+
+N/A
+
+2017
+
+*The American Journal of Geriatric Psychiatry, 25(5)*, 498-499
+
+### Not all performance validity tests are created equal: The role familiarity and recollection in the Test of Memory Malingering and Word Memory Test
+
+**Eglit, G.M.L.**, Lynch, J.L., & McCaffrey, R.J.
+
+N/A
+
+2016
+
+*Journal of Clinical and Experimental Neuropsychology, 39(2)*, 173-189
+
+### Validation of Victoria Symptom Validity Test cutoff scores among mild traumatic brain injury litigants using a known-groups design
+
+**Silk-Eglit, G.M.**, Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Archives of Clinical Neuropsychology, 31(3)*, 231-245
+
+### Evaluation of the generalizability of the number of abnormal scores and the overall test battery mean as measures of performance validity to a different test battery
+
+**Silk-Eglit, G.M.**, Miele, A.S., Stenclik, J.H., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+2015
+
+*Applied Neuropsychology: Adult, 22(6)*, 399-406
+
+### Rates of false positive classifications resulting from the analysis of additional embedded performance validity measures
+
+**Silk-Eglit, G.M.**, Stenclik, J.H., Miele, A.S., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Applied Neuropsychology: Adult, 22(5)*, 335-347
+
+### Performance validity classification accuracy of single, pairwise, and triple failure models using the Halstead-Reitan neuropsychological battery for adults
+
+**Silk-Eglit, G.M.**, Stenclik, J.H., Miele, A.S., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Applied Neuropsychology: Adult, 22(4)*, 271-281
+
+### Is three a crowd? How third-party observers impact neuropsychological exams in litigation
+
+Shindell, M.R., McCaffrey, R.J., & **Silk-Eglit, G.M.**
+
+N/A
+
+2014
+
+*American Bar Association Trial Practice Newsletter, 28(4)*
+
+Reprinted in the *American Bar Association Minority Trial Lawyer Newsletter (2014,Summer)* and the *American Bar Association Trial Evidence Newsletter (2014, Fall)*.
+
+### Base rate of performance invalidity among non-clinical undergraduate research participants
+
+**Silk-Eglit, G.M.**, Stenclik, J.H., Gavett, B.E., Adams, J.W., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Archives of Clinical Neuropsychology, 29(5)*, 415-421
+
+### A comparison of the standard category test with a new computer version
+
+**Silk-Eglit, G.M.**, Stenclik, J.H., Miele, A.S., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Applied Neuropsychology: Adult, 21(9)*, 9-13
+
+### The degree of conation on neuropsychological tests does not account for performance invalidity among litigants
+
+**Silk-Eglit, G.M.**, Stenclik J.H., Miele, A.S., Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+2013
+
+*Archives of Clinical Neuropsychology, 28(3)*, 213-221
+
+### Can the sensitivity and specificity of the TOMM be increased with differential cut-off scores?
+
+Stenclik, J.S., Miele, A.S., **Silk-Eglit, G.M.**, Lynch, J.K., & McCaffrey, R.J.
+
+N/A
+
+N/A
+
+*Applied Neuropsychology: Adult, 20(4)*, 243-248
+
